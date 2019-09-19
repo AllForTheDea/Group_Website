@@ -1,8 +1,10 @@
-.circle{
+.circle {
 	height:50px;
 	width: 50px;
 	border-radius: 50%;
 	background-color: blue;
+	font-size: 13px;
+	padding: 10px 6px 6px 6px;
 }
 
 p{
